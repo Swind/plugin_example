@@ -1,0 +1,12 @@
+{
+    "plugins":
+    {
+        "cli":
+        {
+            "hello":
+            {
+                "functions":["hello_world_cmd"]
+            }
+        }
+    }
+}
